@@ -55,6 +55,11 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 ![Vercel](https://img.shields.io/badge/-Vercel-fff?&logo=Vercel&logoColor=blue)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levin-mutai&show_icons=true&locale=en" alt="levin-mutai" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levin-mutai&" alt="levin-mutai" /></p>
+
+
 <!-- wi*quL3fcV -->
 <!--
 #### Full Stack projects
