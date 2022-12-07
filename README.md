@@ -1,19 +1,6 @@
-### Hi there 👋,I'm Levin Mutai
+### Hi,I'm Levin Mutai
 
-<!--
-**levin-mutai/levin-mutai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 [![twitter badge](https://img.shields.io/badge/-@sav4ner?style=flat&logo=twitter&logoColor=white)](https://twitter.com/sav4ner)
 [![twitter badge](https://img.shields.io/badge/-@sav4ner-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/levi.n.iz)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:levinmutai2@gmail.com)](mailto:contact@developersav4ner.me)
@@ -55,9 +42,20 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/-Docker-fff?style=flat&logo=Docker)
 ![Vercel](https://img.shields.io/badge/-Vercel-fff?&logo=Vercel&logoColor=blue)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levin-mutai&show_icons=true&locale=en" alt="levin-mutai" /></p>
+<div style = ' display: flex;
+  justify-content: center;
+  align-items: center;'>
+  
+<p>&nbsp;<img align="center" style='' src="https://github-readme-stats.vercel.app/api?username=levin-mutai&show_icons=true&locale=en" alt="levin-mutai" /></p>
 
+  </div>
+
+<div style = ' display: flex;
+  justify-content: center;
+  align-items: center;'>
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levin-mutai&" alt="levin-mutai" /></p>
+  </div>
 
 
 <!-- wi*quL3fcV -->
